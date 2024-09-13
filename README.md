@@ -10,6 +10,15 @@ For flowcharts, **Origin Plots** is a commonly used tool. It is a robust softwar
 - **Drag-and-Drop Interface**: Simplifies the process of creating flowcharts.
 - **Integration**: Can work with data sets, making it useful for visually representing workflow processes linked to experimental data.
 
+## 3D Modelling and Design
+
+When illustrating complex concepts, procedures involving real-life tools, or 3D imaging, **Autodesk** software is commonly used. Autodesk provides a wide range of tools for 3D design, engineering, and entertainment.
+
+### Key Features of Autodesk for 3D Modelling:
+- **Realistic Visualization**: Supports high-resolution 3D rendering and simulation, making it ideal for illustrating mechanical parts, architectural designs, or medical imaging processes in research papers.
+- **Collaboration and Cloud Integration**: Autodesk's cloud-based tools enable easy sharing and collaboration, allowing teams to work together on 3D models in real-time from different locations.
+- **Extensive Libraries and Add-ons**: Comes with built-in libraries of materials, textures, and components, with additional plugins and extensions available to expand its functionality.
+
 ## Pseudo Code
 
 For writing pseudo code, **LaTeX** is a powerful tool that offers a clean and professional framework. LaTeX is widely used for typesetting papers, and its algorithmic and algorithm packages provide excellent support for writing pseudo code.
